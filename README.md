@@ -131,7 +131,7 @@ Command | Description
 ## 🗣 <a name="languages"></a>Languages
 
 ```text
-en    English
+es    Spanish
 ```
 
 ## 💜 <a name="contribute"></a>Contribute
